@@ -1,0 +1,31 @@
+{
+  "name": "paylona",
+  "version": "1.0.0",
+  "description": "PAYLONA is an open-source React SDK that provides plug-and-play components and hooks for integrating **Solana Pay** into modern web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloggerlucky43/Paylona.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloggerlucky43/Paylona/issues"
+  },
+  "homepage": "https://github.com/bloggerlucky43/Paylona#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.2",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
